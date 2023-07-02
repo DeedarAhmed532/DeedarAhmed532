@@ -1,3 +1,4 @@
+![Logo](https://github.com/DeedarAhmed532/DeedarAhmed532/blob/main/357360536_800414331682949_1531872721295244944_n.png)
 <h1 align="center">Hi 👋, I'm Deedar Ahmed</h1>
 <h3 align="center">A Student Of S.M.I.T "Web and Mobile Application</h3>
 
